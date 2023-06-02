@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "613fd3cb10779c6e3892c3c2"
+  },
+  "name": "Warner Bros",
+  "year_founded": 1923,
+  "movies": [
+    {
+      "$oid": "644288fcd4c35a8bc15ed9a8"
+    },
+    {
+      "$oid": "644288fcd4c35a8bc15ed9a7"
+    },
+    {
+      "$oid": "613fd5d110779c6e3892c3c7"
+    }
+  ],
+  "headquarters": {
+    "address": "4000 Warner Blvd",
+    "city": "Burbank",
+    "state": "California",
+    "country": "USA"
+  }
+},{
+  "_id": {
+    "$oid": "613fd3cb10779c6e3892c3c3"
+  },
+  "name": "Universal Studios",
+  "year_founded": 1912,
+  "movies": [
+    {
+      "$oid": "613fd5d110779c6e3892c3c5"
+    },
+    {
+      "$oid": "613fd5d110779c6e3892c3c8"
+    }
+  ],
+  "headquarters": {
+    "address": "100 Universal City Plaza",
+    "city": "Universal City",
+    "state": "California",
+    "country": "USA"
+  }
+},{
+  "_id": {
+    "$oid": "613fd3cb10779c6e3892c3c4"
+  },
+  "name": "Walt Disney Pictures",
+  "year_founded": 1923,
+  "movies": [
+    {
+      "$oid": "644288fcd4c35a8bc15ed9a7"
+    },
+    {
+      "$oid": "613fd5d110779c6e3892c3ca"
+    }
+  ],
+  "headquarters": {
+    "address": "500 S Buena Vista St",
+    "city": "Burbank",
+    "state": "California",
+    "country": "USA"
+  }
+}]
