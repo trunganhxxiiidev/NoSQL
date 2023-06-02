@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "64428918d4c35a8bc15ed9a9"
+  },
+  "first_name": "John",
+  "last_name": "Doe",
+  "birth_date": {
+    "$date": "1990-01-01T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "64428918d4c35a8bc15ed9aa"
+  },
+  "first_name": "Jane",
+  "last_name": "Doe",
+  "birth_date": {
+    "$date": "2000-02-01T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "64428918d4c35a8bc15ed9ab"
+  },
+  "first_name": "Bob",
+  "last_name": "Ngô",
+  "birth_date": {
+    "$date": "1980-03-01T00:00:00.000Z"
+  }
+}]

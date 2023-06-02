@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "644288fcd4c35a8bc15ed9a7"
+  },
+  "title": "Tom and Jerry",
+  "director_id": {
+    "$oid": "61f53c39e3d3b80e942b51c7"
+  },
+  "release_year": 2021,
+  "imdb": {
+    "rating": 4.5,
+    "votes": 100
+  },
+  "actors": [
+    {
+      "person_id": {
+        "$oid": "61f53c39e3d3b80e942b51c8"
+      },
+      "as": "Tom"
+    },
+    {
+      "person_id": {
+        "$oid": "61f53c39e3d3b80e942b51c9"
+      },
+      "as": "Jerry"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "644288fcd4c35a8bc15ed9a8"
+  },
+  "title": "The Lion King",
+  "director_id": {
+    "$oid": "61f53c39e3d3b80e942b51ca"
+  },
+  "release_year": 2019,
+  "imdb": {
+    "rating": 7.1,
+    "votes": 500
+  },
+  "actors": [
+    {
+      "person_id": {
+        "$oid": "61f53c39e3d3b80e942b51cb"
+      },
+      "as": "Simba"
+    },
+    {
+      "person_id": {
+        "$oid": "61f53c39e3d3b80e942b51cc"
+      },
+      "as": "Mufasa"
+    }
+  ]
+}]
